@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\dictonary\dictonary\bin\Debug\net6.0\dictonary.exe
+C:\Users\meesh\source\repos\dictonary\dictonary\bin\Debug\net6.0\dictonary.deps.json
+C:\Users\meesh\source\repos\dictonary\dictonary\bin\Debug\net6.0\dictonary.runtimeconfig.json
+C:\Users\meesh\source\repos\dictonary\dictonary\bin\Debug\net6.0\dictonary.dll
+C:\Users\meesh\source\repos\dictonary\dictonary\bin\Debug\net6.0\dictonary.pdb
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.AssemblyInfo.cs
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.dll
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\refint\dictonary.dll
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.pdb
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\dictonary.genruntimeconfig.cache
+C:\Users\meesh\source\repos\dictonary\dictonary\obj\Debug\net6.0\ref\dictonary.dll
